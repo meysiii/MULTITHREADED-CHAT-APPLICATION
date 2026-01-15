@@ -142,11 +142,12 @@ Store chat history using files or databases
 
 Add GUI using Java Swing or JavaFX
 
-# OUTPUT
-
-
-
-
 Enhance security using encryption
 
 Convert to web-based chat application
+
+# OUTPUT
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/fd13fe38-9379-4973-89fb-8fba4fe2df32" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/4aee9819-160b-4f2a-8b9b-eadc6b124b52" />
